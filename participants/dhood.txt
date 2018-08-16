@@ -1,7 +1,7 @@
 Participant info
 ================
 
-dhood
+hood
 =====
 
 Research roboticist
